@@ -28,6 +28,12 @@ Console.WriteLine(quartos);
 Console.WriteLine(precoInternet.ToString("F2"));
 Console.WriteLine(sobrenNome);
 Console.WriteLine(idade);
-Console.WriteLine(altura.ToString("F2"));
+Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
 //F2 significa duas casas decimais
 //WriteLine com escrita imprime as coisas escritas na entrada
+//azul tipo de variavel 
+// verde classe
+// amarela meotodo
+//azul claro variavel
+//rosa operador logico 
+//laranja significa texto 
